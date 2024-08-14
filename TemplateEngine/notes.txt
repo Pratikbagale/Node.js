@@ -1,0 +1,8 @@
+Template Engine
+
+ejs packages.
+npm install ejs
+
+* What is the template engine?
+=> it is use to make dynamic pages.
+

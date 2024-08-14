@@ -1,0 +1,6 @@
+(1). What is middlewares ?
+=> it is a function using with routes.
+  it will access request and response ,and modify it
+
+Route Level middleware
+
